@@ -1,7 +1,4 @@
-st.title
-st.write
-st.file_uploader
-st.image
-st.spinner
-st.audio
-st.button
+streamlit>=1.35.0
+transformers>=4.40.0
+torch>=2.0.0
+Pillow>=10.0.0
